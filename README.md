@@ -1,13 +1,5 @@
 ## Hi there 👋
 
-# Nom du Projet
-
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
-[![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![Made with C#](https://img.shields.io/badge/made%20with-C%23-239120.svg)]()
-
-
-<!--
 **c-pili/c-pili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -20,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
