@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**I'm a Student Electrical Engineering and Embeed System
+**I'm a Student Electrical Engineering and Embeed System**
 
 Here are some ideas to get you started:
 
